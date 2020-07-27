@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    margin-bottom: 160px;
+    margin-bottom: 480px;
     margin-top: 50px;
 }
 
@@ -13,7 +13,6 @@ nav{
 
 .nav-item{
     margin-right: 30px;
-
 }
 
 a{
@@ -31,8 +30,6 @@ a{
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
     background-size: 100% 100%;
-    color: white;
-    font: 900;
 }
 
 #judul{
@@ -45,7 +42,7 @@ hr{
 }
 
 section{
-    min-height: 680px;
+    min-height: 780px;
 }
 
 .about{
@@ -60,7 +57,6 @@ section{
 }
 
 .project{
-    background-color: #EBEDED;
     padding-top: 20px;
 }
 
@@ -76,11 +72,11 @@ footer{
 }
 
 .kkn{
-    max-width: 160px;
+    max-width: 140px;
     max-height: 60px;
     padding-top: 20px;
-    padding-right: 40px;
-    padding-left: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 footer p{
